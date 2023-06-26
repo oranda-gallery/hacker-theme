@@ -1,4 +1,7 @@
 {
+    "project": {
+        "name": "hacker theme"
+    },
     "styles" : {
         "theme": "hacker"
     }
